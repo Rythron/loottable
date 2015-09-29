@@ -1,0 +1,1 @@
+"LootTableCompiler.exe" "z:\arma3 test\ExileLootPrecompiler\LootTable.h" "z:\arma3 test\ExileLootPrecompiler\CfgLootTables.hpp"
